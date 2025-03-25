@@ -1,0 +1,10 @@
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.frmMaiorMenor.resources
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.Properties.Resources.resources
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.csproj.GenerateResource.cache
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\source\repos\treino1\bin\Debug\treino1.exe.config
+C:\Users\amanda.ssantos151\source\repos\treino1\bin\Debug\treino1.exe
+C:\Users\amanda.ssantos151\source\repos\treino1\bin\Debug\treino1.pdb
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.exe
+C:\Users\amanda.ssantos151\source\repos\treino1\obj\Debug\treino1.pdb
