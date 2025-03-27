@@ -1,0 +1,10 @@
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.exe.config
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.pdb
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.frmFormularioSimples.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.Properties.Resources.resources
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.GenerateResource.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.exe
+C:\Users\amanda.ssantos151\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.pdb
